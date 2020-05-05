@@ -1,0 +1,16 @@
+h1{ 
+    color: #ffff00 
+}
+.header{
+    background-color: #ff0000;
+    display:flex;
+    justify-content:space-between ;
+}
+.alignment{
+    color: #2f0000;
+    background-color:#00ffff
+}
+.footer{
+   display:flex;
+   justify-content: flex-end;
+}
